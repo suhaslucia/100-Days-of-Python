@@ -1,3 +1,4 @@
+# Printing the Greetings
 print(" ----- Tip Calculator ----- ")
 
 # Taking the inputs as a float value from the user
